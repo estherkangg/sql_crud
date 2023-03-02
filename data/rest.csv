@@ -1,0 +1,1001 @@
+id,rest_name,cuisine,neighborhood,price,opening_hours,closing_hours,average_rating,good_for_kids
+1,Oyope,Greek,Flatiron,cheap,10:00,21:00,1,false
+2,Skyba,Chinese,West Village,medium,10:00,21:00,2,false
+3,Skyba,Chinese,Ktown,expensive,10:00,21:00,4,true
+4,Yodoo,Greek,UES,cheap,10:00,21:00,5,false
+5,Plajo,Thai,Noho,expensive,10:00,21:00,5,true
+6,Bluejam,Italian,East Village,medium,10:00,21:00,2,true
+7,Reallinks,Mexican,East Village,expensive,10:00,21:00,2,true
+8,Vidoo,Japanese,Hell's Kitchen,cheap,10:00,21:00,3,true
+9,Feednation,Japanese,Ktown,medium,10:00,21:00,1,false
+10,Lajo,Chinese,Chelsea,expensive,10:00,21:00,3,false
+11,Bubblemix,Thai,Flatiron,expensive,10:00,21:00,2,true
+12,Jaxnation,Japanese,Noho,medium,10:00,21:00,5,true
+13,Minyx,Japanese,Flatiron,medium,10:00,21:00,2,false
+14,Tekfly,Japanese,Hell's Kitchen,cheap,10:00,21:00,2,false
+15,Skinix,Latin,Soho,cheap,10:00,21:00,4,false
+16,Skiba,Latin,Noho,expensive,10:00,21:00,4,false
+17,Wikizz,Japanese,UWS,medium,10:00,21:00,5,true
+18,Meeveo,Italian,Noho,expensive,10:00,21:00,5,false
+19,Oloo,Latin,Fidi,expensive,10:00,21:00,3,true
+20,Skippad,American,Ktown,cheap,10:00,21:00,3,true
+21,Voonix,American,Midtown,medium,10:00,21:00,5,false
+22,Yotz,American,Hell's Kitchen,expensive,10:00,21:00,3,true
+23,Feedspan,Japanese,Ktown,expensive,10:00,21:00,5,false
+24,Digitube,Italian,Greenwich Village,medium,10:00,21:00,4,true
+25,Quimba,Korean,Grammercy,expensive,10:00,21:00,2,false
+26,Yodo,Italian,Hell's Kitchen,medium,10:00,21:00,4,false
+27,Divape,Indian,Midtown,expensive,10:00,21:00,5,true
+28,Voonte,Korean,UWS,cheap,10:00,21:00,5,false
+29,Eimbee,Thai,Tribeca,expensive,10:00,21:00,5,false
+30,Blogspan,Japanese,UWS,cheap,10:00,21:00,2,false
+31,Edgeblab,Mexican,Tribeca,expensive,10:00,21:00,4,true
+32,Eayo,Korean,Flatiron,medium,10:00,21:00,1,true
+33,Kare,French,Chinatown,cheap,10:00,21:00,5,false
+34,Kazio,Indian,LES,medium,10:00,21:00,5,true
+35,Ntags,Japanese,Noho,cheap,10:00,21:00,1,false
+36,Zooxo,Latin,LES,medium,10:00,21:00,2,true
+37,Fivechat,Greek,Hell's Kitchen,cheap,10:00,21:00,5,false
+38,Gevee,Thai,Noho,cheap,10:00,21:00,4,true
+39,Brainlounge,American,LES,cheap,10:00,21:00,1,false
+40,Fivebridge,American,Chinatown,expensive,10:00,21:00,1,true
+41,Skippad,Mexican,Chelsea,medium,10:00,21:00,1,false
+42,Livetube,Latin,West Village,expensive,10:00,21:00,2,false
+43,Skinder,Thai,Flatiron,cheap,10:00,21:00,3,false
+44,Flipstorm,French,Fidi,medium,10:00,21:00,1,true
+45,Yakidoo,Greek,Greenwich Village,medium,10:00,21:00,2,true
+46,Kimia,Indian,Midtown,medium,10:00,21:00,3,true
+47,Rhynoodle,Korean,Chinatown,medium,10:00,21:00,3,true
+48,Blogtag,Korean,Midtown,expensive,10:00,21:00,2,true
+49,Devbug,Mexican,Chelsea,expensive,10:00,21:00,5,true
+50,Topiclounge,American,Flatiron,expensive,10:00,21:00,2,true
+51,Browsecat,Latin,Chinatown,cheap,10:00,21:00,2,true
+52,Eire,Chinese,LES,expensive,10:00,21:00,3,false
+53,Vidoo,Italian,UES,medium,10:00,21:00,2,true
+54,Photobean,Latin,Tribeca,expensive,10:00,21:00,5,false
+55,Chatterpoint,French,Grammercy,expensive,10:00,21:00,1,true
+56,Youfeed,Chinese,UES,medium,10:00,21:00,4,false
+57,Yodoo,Chinese,Fidi,expensive,10:00,21:00,4,true
+58,Midel,Chinese,Flatiron,medium,10:00,21:00,3,false
+59,Yakitri,Greek,Hell's Kitchen,expensive,10:00,21:00,4,true
+60,Gigazoom,Latin,East Village,expensive,10:00,21:00,5,true
+61,Camimbo,French,Flatiron,cheap,10:00,21:00,3,true
+62,Devpoint,Mexican,Hell's Kitchen,medium,10:00,21:00,5,false
+63,Feedmix,Japanese,Grammercy,cheap,10:00,21:00,3,true
+64,Brainsphere,Indian,Tribeca,expensive,10:00,21:00,5,true
+65,Twitterlist,Mexican,LES,expensive,10:00,21:00,2,true
+66,Eidel,American,West Village,cheap,10:00,21:00,1,true
+67,Chatterpoint,Japanese,Hell's Kitchen,expensive,10:00,21:00,4,false
+68,Kazu,Mexican,Chinatown,expensive,10:00,21:00,3,true
+69,Blogpad,French,Tribeca,cheap,10:00,21:00,3,true
+70,Meemm,Italian,Midtown,expensive,10:00,21:00,4,false
+71,Quamba,Italian,Flatiron,medium,10:00,21:00,5,true
+72,Topicstorm,American,East Village,medium,10:00,21:00,2,false
+73,Vitz,French,UES,medium,10:00,21:00,1,true
+74,Tavu,Greek,Chelsea,expensive,10:00,21:00,1,true
+75,Demivee,Latin,Fidi,expensive,10:00,21:00,2,false
+76,Skipstorm,Greek,Tribeca,expensive,10:00,21:00,4,false
+77,Brainlounge,Thai,Chinatown,medium,10:00,21:00,1,true
+78,Skivee,Mexican,West Village,medium,10:00,21:00,2,true
+79,Devbug,Mexican,UWS,expensive,10:00,21:00,4,false
+80,Abatz,Japanese,UWS,medium,10:00,21:00,3,false
+81,Quimba,Italian,Soho,cheap,10:00,21:00,3,true
+82,Youopia,Thai,Chelsea,medium,10:00,21:00,1,false
+83,Einti,Indian,Midtown,medium,10:00,21:00,1,false
+84,Brainlounge,Korean,Soho,medium,10:00,21:00,1,true
+85,Oyondu,Latin,UES,cheap,10:00,21:00,1,false
+86,Mycat,Japanese,Noho,expensive,10:00,21:00,4,true
+87,Reallinks,American,Tribeca,expensive,10:00,21:00,1,true
+88,Tazzy,Greek,Greenwich Village,cheap,10:00,21:00,5,true
+89,Thoughtstorm,Chinese,Chinatown,medium,10:00,21:00,1,false
+90,Cogilith,Korean,Fidi,cheap,10:00,21:00,1,true
+91,Topicware,Italian,Soho,medium,10:00,21:00,4,false
+92,Quire,Korean,Fidi,cheap,10:00,21:00,3,true
+93,Yakijo,Chinese,Noho,expensive,10:00,21:00,5,false
+94,Meedoo,Japanese,LES,cheap,10:00,21:00,4,false
+95,Abata,American,Hell's Kitchen,cheap,10:00,21:00,1,true
+96,Photolist,Thai,Greenwich Village,medium,10:00,21:00,3,false
+97,Dabvine,Indian,LES,cheap,10:00,21:00,5,false
+98,Skinder,Italian,Midtown,medium,10:00,21:00,2,true
+99,Devcast,French,Noho,medium,10:00,21:00,3,false
+100,Flashdog,Mexican,Soho,cheap,10:00,21:00,2,false
+101,Dynabox,American,UWS,medium,10:00,21:00,2,false
+102,Fivechat,Korean,Grammercy,cheap,10:00,21:00,5,true
+103,Buzzdog,Korean,Noho,cheap,10:00,21:00,5,false
+104,Plambee,Japanese,Grammercy,medium,10:00,21:00,4,false
+105,Viva,Japanese,Fidi,expensive,10:00,21:00,5,false
+106,Devify,Latin,Fidi,medium,10:00,21:00,3,false
+107,Aivee,French,Hell's Kitchen,cheap,10:00,21:00,2,false
+108,Gigaclub,Chinese,Greenwich Village,cheap,10:00,21:00,3,false
+109,Kimia,Indian,Greenwich Village,medium,10:00,21:00,3,true
+110,Skinte,Mexican,Midtown,expensive,10:00,21:00,3,true
+111,Twinder,Korean,Noho,expensive,10:00,21:00,5,false
+112,Aivee,Italian,Flatiron,cheap,10:00,21:00,1,true
+113,Kazio,Chinese,Soho,expensive,10:00,21:00,4,false
+114,Lajo,American,UWS,expensive,10:00,21:00,1,false
+115,Ntags,Korean,UES,medium,10:00,21:00,5,false
+116,Yata,American,LES,medium,10:00,21:00,2,true
+117,Zoonoodle,Greek,Noho,expensive,10:00,21:00,2,false
+118,Oloo,Greek,Noho,medium,10:00,21:00,1,false
+119,Yodel,Indian,Greenwich Village,expensive,10:00,21:00,1,false
+120,Voomm,Indian,UES,cheap,10:00,21:00,1,false
+121,Avavee,Mexican,UES,expensive,10:00,21:00,2,false
+122,Photolist,Thai,LES,medium,10:00,21:00,5,false
+123,Yodoo,Korean,Ktown,medium,10:00,21:00,1,true
+124,Topicshots,Mexican,Noho,expensive,10:00,21:00,3,false
+125,Npath,Chinese,Greenwich Village,cheap,10:00,21:00,5,false
+126,Izio,Indian,East Village,cheap,10:00,21:00,1,false
+127,Photofeed,Chinese,Tribeca,cheap,10:00,21:00,3,true
+128,Gabspot,Greek,Greenwich Village,expensive,10:00,21:00,1,false
+129,Rhyzio,American,Hell's Kitchen,expensive,10:00,21:00,1,true
+130,Twitterbridge,Indian,LES,cheap,10:00,21:00,5,true
+131,Tagfeed,Indian,Grammercy,expensive,10:00,21:00,2,true
+132,Oba,Greek,Grammercy,expensive,10:00,21:00,5,false
+133,Twinte,French,Soho,expensive,10:00,21:00,1,false
+134,Zoomlounge,Indian,Fidi,cheap,10:00,21:00,5,false
+135,Twinder,Korean,LES,cheap,10:00,21:00,4,false
+136,Dabjam,Italian,Soho,expensive,10:00,21:00,2,false
+137,Centidel,Korean,Soho,expensive,10:00,21:00,3,true
+138,Buzzbean,Chinese,Soho,cheap,10:00,21:00,1,true
+139,Skibox,Mexican,Hell's Kitchen,cheap,10:00,21:00,2,true
+140,Vinte,Indian,Fidi,medium,10:00,21:00,2,false
+141,Edgetag,Thai,Ktown,expensive,10:00,21:00,5,false
+142,BlogXS,Thai,Grammercy,expensive,10:00,21:00,1,false
+143,Jaloo,Mexican,Chelsea,cheap,10:00,21:00,2,false
+144,Zooxo,French,Grammercy,cheap,10:00,21:00,1,true
+145,Oyoloo,Greek,Greenwich Village,expensive,10:00,21:00,1,false
+146,Fivebridge,Chinese,LES,cheap,10:00,21:00,4,true
+147,Babbleopia,Italian,Greenwich Village,medium,10:00,21:00,3,true
+148,Eazzy,Thai,Grammercy,expensive,10:00,21:00,5,false
+149,Aimbo,Italian,Grammercy,cheap,10:00,21:00,2,false
+150,Trunyx,French,West Village,cheap,10:00,21:00,3,false
+151,Zoombox,Chinese,Chelsea,expensive,10:00,21:00,3,true
+152,Eazzy,Chinese,Tribeca,cheap,10:00,21:00,2,false
+153,Skyndu,French,Fidi,expensive,10:00,21:00,5,false
+154,Photojam,French,Noho,expensive,10:00,21:00,4,true
+155,Zoonoodle,Thai,UWS,medium,10:00,21:00,1,true
+156,Centizu,Mexican,Flatiron,medium,10:00,21:00,4,true
+157,Chatterpoint,Korean,Tribeca,cheap,10:00,21:00,3,true
+158,Flipopia,Thai,Noho,expensive,10:00,21:00,4,false
+159,Oloo,Italian,Fidi,cheap,10:00,21:00,3,true
+160,Zoomzone,Chinese,Chinatown,expensive,10:00,21:00,5,true
+161,Linkbuzz,Thai,Chinatown,medium,10:00,21:00,1,true
+162,Oyoyo,Thai,Ktown,expensive,10:00,21:00,3,true
+163,Oloo,Italian,Tribeca,expensive,10:00,21:00,1,true
+164,Cogilith,Indian,Tribeca,medium,10:00,21:00,3,true
+165,Yambee,French,East Village,cheap,10:00,21:00,3,true
+166,BlogXS,Japanese,West Village,medium,10:00,21:00,5,false
+167,Oyope,Indian,LES,medium,10:00,21:00,2,true
+168,Yodo,Indian,Fidi,cheap,10:00,21:00,2,true
+169,Divape,Indian,LES,expensive,10:00,21:00,3,false
+170,Talane,Chinese,Noho,cheap,10:00,21:00,5,true
+171,Zoozzy,Greek,Soho,medium,10:00,21:00,1,true
+172,Voonder,Italian,Soho,expensive,10:00,21:00,4,false
+173,Gabtype,Italian,Grammercy,expensive,10:00,21:00,2,false
+174,Twitterworks,Latin,Soho,expensive,10:00,21:00,5,false
+175,Ntag,Indian,UES,cheap,10:00,21:00,4,false
+176,Wordify,Thai,Chelsea,medium,10:00,21:00,2,true
+177,Skyba,French,Greenwich Village,cheap,10:00,21:00,2,true
+178,Yodel,Japanese,Grammercy,medium,10:00,21:00,5,true
+179,Dabtype,Thai,LES,medium,10:00,21:00,3,true
+180,Twitterbridge,American,Greenwich Village,cheap,10:00,21:00,4,true
+181,Vitz,French,Midtown,expensive,10:00,21:00,5,true
+182,Skipfire,Latin,Ktown,cheap,10:00,21:00,5,false
+183,Jaxspan,American,Chelsea,cheap,10:00,21:00,4,false
+184,Ntag,Thai,Soho,cheap,10:00,21:00,3,false
+185,Flashspan,French,West Village,medium,10:00,21:00,4,true
+186,Devcast,Indian,Grammercy,medium,10:00,21:00,4,true
+187,Gigashots,Mexican,Soho,medium,10:00,21:00,3,true
+188,Oba,Latin,Hell's Kitchen,medium,10:00,21:00,4,false
+189,Thoughtblab,Latin,East Village,cheap,10:00,21:00,5,false
+190,Topicshots,Italian,Soho,cheap,10:00,21:00,2,true
+191,Skynoodle,Italian,Fidi,expensive,10:00,21:00,1,true
+192,Digitube,Indian,LES,medium,10:00,21:00,5,false
+193,Voomm,Greek,Midtown,medium,10:00,21:00,2,false
+194,Flashspan,Latin,Hell's Kitchen,cheap,10:00,21:00,3,true
+195,Gabtune,Japanese,UES,cheap,10:00,21:00,1,false
+196,Rhycero,Latin,UES,medium,10:00,21:00,3,true
+197,Divanoodle,Korean,Greenwich Village,medium,10:00,21:00,2,true
+198,Fadeo,Chinese,UES,expensive,10:00,21:00,4,true
+199,Myworks,American,West Village,cheap,10:00,21:00,2,false
+200,Twinder,Chinese,Flatiron,medium,10:00,21:00,2,false
+201,Katz,Korean,Grammercy,expensive,10:00,21:00,1,false
+202,Thoughtbeat,Thai,Soho,medium,10:00,21:00,1,true
+203,Eimbee,French,Flatiron,medium,10:00,21:00,1,false
+204,Yotz,Latin,Noho,medium,10:00,21:00,4,false
+205,Quimba,Thai,Soho,cheap,10:00,21:00,5,false
+206,Quatz,Italian,Noho,expensive,10:00,21:00,2,false
+207,Bubbletube,American,LES,medium,10:00,21:00,3,false
+208,Photojam,Japanese,Flatiron,cheap,10:00,21:00,3,true
+209,Roodel,Thai,Midtown,cheap,10:00,21:00,4,false
+210,Kwideo,French,Fidi,cheap,10:00,21:00,4,true
+211,Jetpulse,Greek,Midtown,cheap,10:00,21:00,1,false
+212,Minyx,Greek,Flatiron,expensive,10:00,21:00,1,false
+213,Leexo,Korean,Flatiron,cheap,10:00,21:00,3,true
+214,Janyx,Indian,Grammercy,cheap,10:00,21:00,1,true
+215,Browseblab,American,Greenwich Village,cheap,10:00,21:00,1,false
+216,Thoughtsphere,Italian,East Village,medium,10:00,21:00,3,false
+217,Brainlounge,Greek,LES,medium,10:00,21:00,1,true
+218,Mymm,Latin,East Village,expensive,10:00,21:00,5,false
+219,Snaptags,Mexican,Hell's Kitchen,cheap,10:00,21:00,3,false
+220,Photospace,Chinese,Chelsea,cheap,10:00,21:00,2,false
+221,Topdrive,Latin,Hell's Kitchen,medium,10:00,21:00,3,true
+222,InnoZ,Latin,LES,cheap,10:00,21:00,1,true
+223,Edgewire,Chinese,Fidi,cheap,10:00,21:00,3,false
+224,Browsezoom,Korean,UWS,cheap,10:00,21:00,1,false
+225,Dabfeed,Indian,UWS,expensive,10:00,21:00,3,false
+226,Thoughtbridge,Latin,West Village,cheap,10:00,21:00,5,true
+227,Quimm,Latin,Greenwich Village,expensive,10:00,21:00,5,false
+228,Agimba,Indian,Greenwich Village,expensive,10:00,21:00,5,true
+229,Devcast,Thai,UWS,medium,10:00,21:00,4,true
+230,Jaxbean,Korean,Flatiron,expensive,10:00,21:00,3,false
+231,Yakijo,Indian,UES,expensive,10:00,21:00,5,false
+232,Zooveo,Korean,Flatiron,medium,10:00,21:00,4,true
+233,Tagchat,Korean,Fidi,medium,10:00,21:00,5,false
+234,Wikivu,Korean,Fidi,expensive,10:00,21:00,5,true
+235,Twitternation,American,Ktown,expensive,10:00,21:00,3,true
+236,Rhyloo,Chinese,East Village,expensive,10:00,21:00,3,true
+237,Quimba,Chinese,East Village,expensive,10:00,21:00,4,true
+238,Skippad,American,Grammercy,cheap,10:00,21:00,3,false
+239,Feednation,French,Midtown,medium,10:00,21:00,2,false
+240,Fivespan,Chinese,Chinatown,medium,10:00,21:00,4,true
+241,Yozio,Italian,Flatiron,medium,10:00,21:00,1,false
+242,Aivee,Korean,Fidi,medium,10:00,21:00,2,false
+243,Dabfeed,Thai,Hell's Kitchen,expensive,10:00,21:00,5,false
+244,Quimba,French,West Village,expensive,10:00,21:00,1,true
+245,Skiba,Thai,LES,expensive,10:00,21:00,3,true
+246,Thoughtworks,Indian,Soho,cheap,10:00,21:00,2,true
+247,Gevee,Indian,Ktown,medium,10:00,21:00,4,false
+248,Topdrive,American,Ktown,medium,10:00,21:00,5,false
+249,Leexo,Chinese,Hell's Kitchen,cheap,10:00,21:00,1,false
+250,Skyble,Chinese,East Village,expensive,10:00,21:00,2,false
+251,Pixonyx,Mexican,East Village,medium,10:00,21:00,5,true
+252,Browsebug,Italian,Noho,expensive,10:00,21:00,1,true
+253,Gigazoom,Latin,West Village,medium,10:00,21:00,5,true
+254,Photobug,Indian,LES,cheap,10:00,21:00,2,true
+255,Realbuzz,Latin,Fidi,expensive,10:00,21:00,4,false
+256,Babblestorm,Thai,Fidi,expensive,10:00,21:00,3,false
+257,Skimia,American,LES,cheap,10:00,21:00,4,false
+258,Devify,Latin,Fidi,medium,10:00,21:00,2,false
+259,Tekfly,Italian,Chelsea,medium,10:00,21:00,2,false
+260,Latz,Greek,Grammercy,cheap,10:00,21:00,3,true
+261,Livefish,Latin,Grammercy,cheap,10:00,21:00,4,false
+262,Eamia,Thai,Soho,expensive,10:00,21:00,3,true
+263,Quimba,Greek,UWS,expensive,10:00,21:00,1,true
+264,Vitz,Thai,Chinatown,expensive,10:00,21:00,2,true
+265,Meejo,Japanese,Grammercy,expensive,10:00,21:00,2,true
+266,Skyble,Indian,Noho,cheap,10:00,21:00,4,true
+267,Riffwire,Korean,Hell's Kitchen,cheap,10:00,21:00,5,true
+268,Brightdog,Greek,Chelsea,cheap,10:00,21:00,4,true
+269,Mydeo,Thai,Grammercy,expensive,10:00,21:00,3,true
+270,Tagcat,Greek,Soho,cheap,10:00,21:00,5,true
+271,Abatz,French,Ktown,medium,10:00,21:00,3,true
+272,Mydo,American,Chelsea,cheap,10:00,21:00,5,false
+273,Dabshots,Greek,Ktown,cheap,10:00,21:00,4,false
+274,Realbuzz,Indian,Tribeca,cheap,10:00,21:00,4,false
+275,Brainlounge,American,East Village,cheap,10:00,21:00,1,true
+276,Rhybox,Mexican,Noho,expensive,10:00,21:00,3,true
+277,Innotype,Thai,UES,expensive,10:00,21:00,5,true
+278,Lazz,Mexican,LES,expensive,10:00,21:00,4,false
+279,Skinix,Indian,Chinatown,cheap,10:00,21:00,4,true
+280,Kanoodle,Japanese,Chinatown,expensive,10:00,21:00,3,false
+281,Blogpad,Japanese,Flatiron,expensive,10:00,21:00,5,false
+282,Ainyx,Chinese,Ktown,expensive,10:00,21:00,2,true
+283,Kaymbo,Korean,Flatiron,medium,10:00,21:00,3,true
+284,Wordpedia,Thai,LES,medium,10:00,21:00,1,false
+285,Feedspan,Chinese,Soho,medium,10:00,21:00,3,false
+286,Trilith,American,UES,cheap,10:00,21:00,2,false
+287,Yodel,French,West Village,cheap,10:00,21:00,5,false
+288,Ainyx,Greek,UWS,cheap,10:00,21:00,4,false
+289,Agimba,Greek,LES,medium,10:00,21:00,1,false
+290,Skyvu,Japanese,Tribeca,cheap,10:00,21:00,5,false
+291,Latz,French,UWS,medium,10:00,21:00,4,true
+292,Skinte,Thai,Greenwich Village,cheap,10:00,21:00,1,true
+293,Agivu,Korean,Greenwich Village,medium,10:00,21:00,3,true
+294,Innotype,Indian,Chinatown,medium,10:00,21:00,2,false
+295,Gigabox,Thai,Grammercy,medium,10:00,21:00,4,true
+296,Yakitri,Indian,Ktown,cheap,10:00,21:00,1,false
+297,Quaxo,Latin,UES,expensive,10:00,21:00,5,true
+298,Photobug,Thai,Noho,cheap,10:00,21:00,4,true
+299,Voonix,Greek,Fidi,cheap,10:00,21:00,3,true
+300,Eire,Italian,Flatiron,expensive,10:00,21:00,3,true
+301,Trilia,Korean,LES,expensive,10:00,21:00,5,false
+302,Meevee,Indian,Chinatown,expensive,10:00,21:00,5,false
+303,Twitterwire,Greek,Greenwich Village,medium,10:00,21:00,4,true
+304,Mudo,Latin,LES,cheap,10:00,21:00,1,true
+305,Cogidoo,Thai,Grammercy,medium,10:00,21:00,4,false
+306,Jabbertype,Indian,Chelsea,expensive,10:00,21:00,1,false
+307,Divape,Korean,Chelsea,expensive,10:00,21:00,2,true
+308,Feedspan,Indian,Grammercy,expensive,10:00,21:00,2,true
+309,Abata,Greek,Chinatown,expensive,10:00,21:00,3,false
+310,Trupe,Japanese,Tribeca,cheap,10:00,21:00,5,true
+311,Topdrive,Italian,UWS,cheap,10:00,21:00,5,true
+312,Eare,Japanese,UWS,cheap,10:00,21:00,1,true
+313,Youspan,Korean,Noho,cheap,10:00,21:00,2,false
+314,Oba,French,Chinatown,expensive,10:00,21:00,2,true
+315,Chatterpoint,Mexican,West Village,expensive,10:00,21:00,5,true
+316,Dabshots,Chinese,Midtown,cheap,10:00,21:00,2,true
+317,Dabtype,Japanese,LES,medium,10:00,21:00,4,true
+318,Twimbo,Latin,East Village,expensive,10:00,21:00,4,true
+319,Photobean,Italian,LES,medium,10:00,21:00,5,false
+320,Jamia,Japanese,UWS,cheap,10:00,21:00,1,true
+321,Skinix,Mexican,Midtown,medium,10:00,21:00,2,true
+322,Skiptube,Japanese,Midtown,cheap,10:00,21:00,3,true
+323,Nlounge,Italian,Greenwich Village,cheap,10:00,21:00,1,true
+324,Yotz,French,UWS,expensive,10:00,21:00,4,true
+325,Eadel,Korean,Grammercy,expensive,10:00,21:00,2,false
+326,Browsetype,Korean,Midtown,medium,10:00,21:00,5,true
+327,Buzzdog,Thai,UWS,medium,10:00,21:00,1,false
+328,Miboo,Chinese,LES,expensive,10:00,21:00,1,false
+329,Vitz,Mexican,Chinatown,expensive,10:00,21:00,2,true
+330,Trunyx,Latin,Ktown,expensive,10:00,21:00,3,true
+331,Riffwire,Korean,LES,cheap,10:00,21:00,4,false
+332,Quatz,Thai,UES,cheap,10:00,21:00,1,false
+333,Roodel,Latin,Ktown,medium,10:00,21:00,2,true
+334,Twinte,Chinese,Hell's Kitchen,expensive,10:00,21:00,1,false
+335,Babbleset,Korean,East Village,cheap,10:00,21:00,3,true
+336,Yodoo,Indian,Midtown,medium,10:00,21:00,3,true
+337,Oyoyo,American,Fidi,expensive,10:00,21:00,2,false
+338,Jetwire,Italian,West Village,expensive,10:00,21:00,1,true
+339,Avaveo,Greek,Ktown,expensive,10:00,21:00,4,false
+340,Brightbean,American,Chelsea,cheap,10:00,21:00,2,true
+341,Skidoo,Greek,Midtown,cheap,10:00,21:00,3,false
+342,Fivespan,French,East Village,expensive,10:00,21:00,1,false
+343,Buzzster,Thai,West Village,cheap,10:00,21:00,4,true
+344,Dynava,French,UES,expensive,10:00,21:00,2,false
+345,Avavee,Chinese,Fidi,expensive,10:00,21:00,1,true
+346,Skajo,American,Greenwich Village,expensive,10:00,21:00,2,false
+347,Eazzy,American,UES,medium,10:00,21:00,2,true
+348,Skynoodle,Mexican,Fidi,cheap,10:00,21:00,4,true
+349,Oyoyo,Thai,Chelsea,medium,10:00,21:00,2,false
+350,Meevee,Thai,Soho,expensive,10:00,21:00,3,true
+351,Pixoboo,American,East Village,medium,10:00,21:00,2,false
+352,Kazu,Japanese,Noho,medium,10:00,21:00,3,false
+353,Mita,Indian,Ktown,expensive,10:00,21:00,5,false
+354,Feedbug,Chinese,Noho,cheap,10:00,21:00,2,false
+355,Edgepulse,Greek,East Village,medium,10:00,21:00,5,true
+356,Viva,Korean,Noho,expensive,10:00,21:00,3,true
+357,Gabtype,American,LES,cheap,10:00,21:00,5,false
+358,Podcat,Greek,LES,cheap,10:00,21:00,5,true
+359,Oyoba,Indian,Greenwich Village,expensive,10:00,21:00,5,false
+360,Meeveo,Thai,Hell's Kitchen,cheap,10:00,21:00,4,false
+361,Teklist,Thai,Hell's Kitchen,medium,10:00,21:00,5,false
+362,Thoughtworks,Greek,Chinatown,expensive,10:00,21:00,2,false
+363,Browseblab,French,Ktown,cheap,10:00,21:00,4,false
+364,Buzzshare,Thai,Midtown,cheap,10:00,21:00,1,false
+365,Realbuzz,Italian,Chinatown,expensive,10:00,21:00,3,true
+366,Yambee,Mexican,Grammercy,cheap,10:00,21:00,3,false
+367,Fiveclub,Italian,Hell's Kitchen,expensive,10:00,21:00,1,false
+368,Topiczoom,Thai,Tribeca,cheap,10:00,21:00,5,true
+369,Chatterbridge,French,Hell's Kitchen,cheap,10:00,21:00,4,true
+370,Buzzshare,Greek,LES,medium,10:00,21:00,1,true
+371,Eire,American,Ktown,expensive,10:00,21:00,3,false
+372,Yakitri,Indian,Noho,expensive,10:00,21:00,1,false
+373,Yodoo,Chinese,Tribeca,expensive,10:00,21:00,5,false
+374,Topicshots,American,Chinatown,medium,10:00,21:00,2,true
+375,Jaxnation,American,Midtown,cheap,10:00,21:00,2,false
+376,Youbridge,Greek,Ktown,medium,10:00,21:00,1,true
+377,Ozu,Italian,Grammercy,expensive,10:00,21:00,4,false
+378,Wikizz,Italian,UES,expensive,10:00,21:00,4,false
+379,Topiczoom,Italian,Greenwich Village,expensive,10:00,21:00,5,true
+380,Layo,Latin,Tribeca,medium,10:00,21:00,5,false
+381,Rhyloo,Chinese,Midtown,cheap,10:00,21:00,2,false
+382,Buzzbean,Thai,Hell's Kitchen,expensive,10:00,21:00,1,true
+383,Devpoint,Thai,Soho,medium,10:00,21:00,3,true
+384,Topicblab,Indian,Tribeca,cheap,10:00,21:00,3,false
+385,Zoomzone,Korean,Hell's Kitchen,expensive,10:00,21:00,3,false
+386,Photobean,Japanese,West Village,expensive,10:00,21:00,2,false
+387,Twimm,Thai,Fidi,medium,10:00,21:00,3,false
+388,Dabshots,Latin,Grammercy,cheap,10:00,21:00,2,false
+389,Linklinks,French,UWS,medium,10:00,21:00,1,false
+390,Thoughtmix,Indian,LES,cheap,10:00,21:00,3,false
+391,Browsebug,Greek,Grammercy,expensive,10:00,21:00,2,true
+392,Photofeed,Greek,Greenwich Village,expensive,10:00,21:00,5,false
+393,Feedbug,Thai,Ktown,expensive,10:00,21:00,1,false
+394,Rhynoodle,Thai,Hell's Kitchen,cheap,10:00,21:00,4,false
+395,Flipstorm,Greek,Chinatown,expensive,10:00,21:00,4,false
+396,Zoozzy,French,Chinatown,cheap,10:00,21:00,5,false
+397,Kaymbo,Greek,UWS,medium,10:00,21:00,5,true
+398,Tagfeed,Korean,Hell's Kitchen,cheap,10:00,21:00,2,false
+399,Dynava,Thai,Chelsea,cheap,10:00,21:00,4,false
+400,Layo,Indian,West Village,medium,10:00,21:00,2,false
+401,Zoombeat,Thai,Soho,medium,10:00,21:00,2,true
+402,Agivu,Mexican,UWS,cheap,10:00,21:00,5,false
+403,Podcat,Greek,UWS,medium,10:00,21:00,4,false
+404,Photobug,French,Fidi,cheap,10:00,21:00,1,true
+405,Brainsphere,Chinese,Chinatown,medium,10:00,21:00,5,true
+406,Oyoloo,Indian,Hell's Kitchen,expensive,10:00,21:00,1,true
+407,Blogtags,French,West Village,medium,10:00,21:00,1,false
+408,InnoZ,Latin,Grammercy,cheap,10:00,21:00,5,true
+409,Aibox,Greek,Fidi,cheap,10:00,21:00,3,true
+410,Zoomlounge,Mexican,Chinatown,expensive,10:00,21:00,5,true
+411,Mycat,Mexican,Noho,expensive,10:00,21:00,2,true
+412,Kimia,Mexican,Noho,cheap,10:00,21:00,4,true
+413,Edgetag,Italian,Greenwich Village,expensive,10:00,21:00,1,true
+414,Oloo,Italian,UES,expensive,10:00,21:00,3,true
+415,Ntag,Chinese,Fidi,cheap,10:00,21:00,4,true
+416,Blogtag,Italian,Greenwich Village,cheap,10:00,21:00,5,true
+417,Twimm,Chinese,Chelsea,cheap,10:00,21:00,4,true
+418,Twitterbeat,Italian,Chelsea,expensive,10:00,21:00,5,true
+419,Riffpedia,Chinese,Ktown,expensive,10:00,21:00,2,true
+420,Twinte,Indian,West Village,expensive,10:00,21:00,1,true
+421,Wordify,American,UWS,cheap,10:00,21:00,2,false
+422,Oyoloo,Italian,UES,medium,10:00,21:00,2,false
+423,Skippad,Thai,Noho,cheap,10:00,21:00,3,true
+424,Vitz,Mexican,Flatiron,medium,10:00,21:00,3,false
+425,Babblestorm,Indian,West Village,medium,10:00,21:00,3,false
+426,Tazz,Chinese,Fidi,expensive,10:00,21:00,5,true
+427,Vinder,Japanese,LES,expensive,10:00,21:00,2,true
+428,Buzzdog,Latin,UWS,expensive,10:00,21:00,4,false
+429,Fiveclub,Korean,West Village,medium,10:00,21:00,5,false
+430,Gabtype,Thai,Greenwich Village,expensive,10:00,21:00,2,false
+431,Latz,Mexican,Flatiron,cheap,10:00,21:00,4,false
+432,Reallinks,Japanese,Hell's Kitchen,medium,10:00,21:00,5,false
+433,Meezzy,Latin,Flatiron,cheap,10:00,21:00,2,false
+434,Zoomcast,Japanese,Greenwich Village,cheap,10:00,21:00,5,false
+435,Jayo,Mexican,Chelsea,medium,10:00,21:00,3,true
+436,Chatterpoint,Mexican,Chelsea,medium,10:00,21:00,5,true
+437,Avaveo,French,UWS,medium,10:00,21:00,2,false
+438,Aivee,Indian,UES,cheap,10:00,21:00,5,false
+439,Twitterwire,Latin,Ktown,expensive,10:00,21:00,3,true
+440,Feedbug,Italian,Hell's Kitchen,expensive,10:00,21:00,3,false
+441,Zoomdog,Indian,Fidi,cheap,10:00,21:00,5,true
+442,Kayveo,Korean,Ktown,medium,10:00,21:00,2,true
+443,Wikivu,Korean,Hell's Kitchen,cheap,10:00,21:00,3,true
+444,Talane,Chinese,Ktown,medium,10:00,21:00,4,false
+445,Edgeblab,Korean,Hell's Kitchen,cheap,10:00,21:00,5,true
+446,Camido,French,Midtown,medium,10:00,21:00,3,false
+447,Jetpulse,American,Soho,expensive,10:00,21:00,1,false
+448,Blogpad,Italian,Tribeca,medium,10:00,21:00,4,false
+449,Tagchat,Indian,Midtown,medium,10:00,21:00,2,false
+450,Jabbercube,Greek,Chinatown,cheap,10:00,21:00,2,false
+451,Buzzdog,American,Chinatown,medium,10:00,21:00,5,false
+452,Yodel,French,Grammercy,cheap,10:00,21:00,2,false
+453,Flipstorm,Chinese,Noho,cheap,10:00,21:00,5,false
+454,Jayo,American,Midtown,medium,10:00,21:00,5,true
+455,Demizz,American,Chinatown,expensive,10:00,21:00,3,false
+456,Kwideo,Greek,Soho,cheap,10:00,21:00,1,false
+457,Skinder,Latin,Chelsea,cheap,10:00,21:00,3,true
+458,Livefish,Chinese,Noho,expensive,10:00,21:00,1,false
+459,Vinder,Mexican,Tribeca,cheap,10:00,21:00,4,false
+460,Realfire,Greek,UES,cheap,10:00,21:00,5,true
+461,Fivespan,Italian,Grammercy,expensive,10:00,21:00,1,true
+462,Quatz,Japanese,Soho,cheap,10:00,21:00,1,false
+463,DabZ,Italian,Hell's Kitchen,medium,10:00,21:00,2,false
+464,Eazzy,Mexican,Fidi,medium,10:00,21:00,2,true
+465,Twitterwire,American,Greenwich Village,medium,10:00,21:00,5,false
+466,Mita,Thai,Flatiron,cheap,10:00,21:00,3,true
+467,Topdrive,American,UES,expensive,10:00,21:00,5,false
+468,Voonte,American,Ktown,cheap,10:00,21:00,1,false
+469,Demizz,Indian,Chinatown,medium,10:00,21:00,3,true
+470,Skinder,Greek,Fidi,cheap,10:00,21:00,5,false
+471,Quimm,Mexican,UES,expensive,10:00,21:00,3,true
+472,Ozu,Latin,East Village,medium,10:00,21:00,5,false
+473,Einti,Italian,Chinatown,cheap,10:00,21:00,5,false
+474,Jazzy,Italian,Flatiron,medium,10:00,21:00,5,true
+475,Skyndu,Mexican,Fidi,cheap,10:00,21:00,5,true
+476,Feedmix,Chinese,Chelsea,expensive,10:00,21:00,1,false
+477,Devcast,American,Chelsea,expensive,10:00,21:00,4,false
+478,Chatterpoint,French,Greenwich Village,cheap,10:00,21:00,4,true
+479,Meevee,Greek,UWS,expensive,10:00,21:00,2,false
+480,Ntag,Italian,Ktown,expensive,10:00,21:00,3,true
+481,Skyndu,Latin,UES,cheap,10:00,21:00,1,false
+482,Ntags,American,Midtown,expensive,10:00,21:00,2,false
+483,Topicware,Italian,East Village,expensive,10:00,21:00,4,false
+484,Quamba,Greek,UES,medium,10:00,21:00,2,true
+485,Feednation,Thai,Chelsea,expensive,10:00,21:00,4,false
+486,Oozz,Thai,Fidi,expensive,10:00,21:00,2,true
+487,Shufflester,Greek,Ktown,expensive,10:00,21:00,5,false
+488,Tazz,Korean,Grammercy,expensive,10:00,21:00,5,false
+489,Lazz,Mexican,Soho,medium,10:00,21:00,2,true
+490,Fatz,Korean,Flatiron,medium,10:00,21:00,4,true
+491,Photojam,Latin,UWS,expensive,10:00,21:00,2,true
+492,Eadel,Indian,Greenwich Village,expensive,10:00,21:00,3,true
+493,Zoomlounge,Chinese,Midtown,medium,10:00,21:00,1,false
+494,Cogilith,Latin,UWS,medium,10:00,21:00,2,true
+495,Flashpoint,Italian,UWS,expensive,10:00,21:00,4,true
+496,Realblab,Latin,Chinatown,cheap,10:00,21:00,1,true
+497,Voomm,Italian,Tribeca,medium,10:00,21:00,5,false
+498,Blogtag,Thai,Ktown,medium,10:00,21:00,5,false
+499,Twitterlist,American,Noho,expensive,10:00,21:00,4,false
+500,Oyoyo,Greek,Chelsea,expensive,10:00,21:00,3,false
+501,Quamba,Greek,Tribeca,medium,10:00,21:00,2,false
+502,Zoomcast,Japanese,Chinatown,cheap,10:00,21:00,4,true
+503,Minyx,Thai,UES,expensive,10:00,21:00,4,true
+504,Meemm,Korean,Grammercy,expensive,10:00,21:00,1,false
+505,Roomm,Greek,Midtown,expensive,10:00,21:00,2,true
+506,Ntag,Greek,Fidi,expensive,10:00,21:00,4,true
+507,Devify,Korean,Soho,cheap,10:00,21:00,1,false
+508,Demivee,Indian,Soho,cheap,10:00,21:00,1,true
+509,Realblab,Korean,Noho,cheap,10:00,21:00,2,true
+510,Divanoodle,Latin,Tribeca,medium,10:00,21:00,3,false
+511,Jayo,Latin,Soho,cheap,10:00,21:00,5,true
+512,Thoughtblab,Greek,Chinatown,medium,10:00,21:00,4,true
+513,Mudo,Greek,UWS,cheap,10:00,21:00,3,true
+514,Yadel,Latin,LES,medium,10:00,21:00,4,true
+515,Skaboo,American,UWS,expensive,10:00,21:00,1,true
+516,Voonte,Latin,Chinatown,medium,10:00,21:00,2,true
+517,InnoZ,American,Grammercy,medium,10:00,21:00,4,false
+518,Jaxnation,Italian,Ktown,cheap,10:00,21:00,3,false
+519,Oyoyo,Indian,Hell's Kitchen,expensive,10:00,21:00,5,false
+520,Skinte,American,Hell's Kitchen,cheap,10:00,21:00,5,false
+521,Oyoloo,Indian,Greenwich Village,cheap,10:00,21:00,1,true
+522,Layo,Latin,Soho,expensive,10:00,21:00,1,true
+523,Centidel,Chinese,Greenwich Village,medium,10:00,21:00,1,false
+524,Oyonder,Italian,LES,medium,10:00,21:00,1,false
+525,Fatz,Greek,Ktown,cheap,10:00,21:00,1,false
+526,Photolist,Mexican,Flatiron,expensive,10:00,21:00,4,true
+527,Wordware,French,Chinatown,cheap,10:00,21:00,3,true
+528,Fiveclub,Korean,Tribeca,medium,10:00,21:00,3,false
+529,Shuffletag,Chinese,Soho,cheap,10:00,21:00,1,false
+530,Tazzy,Japanese,Noho,cheap,10:00,21:00,4,false
+531,Browsezoom,American,LES,cheap,10:00,21:00,5,false
+532,Thoughtstorm,Thai,Noho,expensive,10:00,21:00,3,true
+533,Livefish,Japanese,Hell's Kitchen,expensive,10:00,21:00,1,false
+534,Tagpad,Mexican,West Village,expensive,10:00,21:00,2,false
+535,Topiclounge,Italian,UES,expensive,10:00,21:00,4,false
+536,Mita,Thai,West Village,expensive,10:00,21:00,2,false
+537,Brightbean,American,UES,expensive,10:00,21:00,2,false
+538,Skyba,American,Flatiron,medium,10:00,21:00,4,false
+539,Skinix,Chinese,Grammercy,expensive,10:00,21:00,2,false
+540,Jaxbean,American,Hell's Kitchen,expensive,10:00,21:00,1,true
+541,Youopia,Korean,Flatiron,cheap,10:00,21:00,2,true
+542,Vinte,Korean,Fidi,medium,10:00,21:00,5,false
+543,Eabox,Indian,Grammercy,medium,10:00,21:00,5,true
+544,Skibox,Latin,Chinatown,medium,10:00,21:00,4,true
+545,Gigaclub,Indian,UWS,medium,10:00,21:00,4,true
+546,Flashspan,Latin,Flatiron,expensive,10:00,21:00,4,true
+547,Bubblemix,Chinese,Chelsea,expensive,10:00,21:00,5,true
+548,Feedfish,Chinese,Flatiron,expensive,10:00,21:00,2,true
+549,Voomm,American,Greenwich Village,medium,10:00,21:00,4,true
+550,Twiyo,Chinese,UWS,cheap,10:00,21:00,5,false
+551,Dynabox,Indian,Flatiron,expensive,10:00,21:00,3,false
+552,Buzzbean,Thai,UES,expensive,10:00,21:00,1,true
+553,Wordware,Italian,Chelsea,medium,10:00,21:00,3,true
+554,Skynoodle,Italian,Hell's Kitchen,cheap,10:00,21:00,3,true
+555,Realmix,Mexican,UES,cheap,10:00,21:00,1,true
+556,Kayveo,Greek,Tribeca,cheap,10:00,21:00,4,true
+557,Browseblab,French,Soho,cheap,10:00,21:00,4,true
+558,Photobug,Korean,Chelsea,medium,10:00,21:00,3,false
+559,Dynabox,Chinese,Flatiron,cheap,10:00,21:00,4,true
+560,Eimbee,Mexican,East Village,medium,10:00,21:00,3,true
+561,Chatterbridge,Mexican,East Village,expensive,10:00,21:00,2,true
+562,Yata,French,Soho,cheap,10:00,21:00,1,false
+563,Jayo,Greek,Noho,cheap,10:00,21:00,4,true
+564,Trudeo,Indian,Midtown,medium,10:00,21:00,5,false
+565,Kazu,Greek,Chelsea,cheap,10:00,21:00,1,false
+566,Divape,Indian,East Village,cheap,10:00,21:00,3,false
+567,Flipbug,American,Chinatown,cheap,10:00,21:00,3,true
+568,Linklinks,Korean,Chelsea,cheap,10:00,21:00,2,true
+569,Reallinks,Japanese,LES,expensive,10:00,21:00,5,false
+570,Tanoodle,Japanese,Flatiron,expensive,10:00,21:00,5,false
+571,Plambee,Mexican,West Village,expensive,10:00,21:00,2,true
+572,Demizz,Chinese,Fidi,cheap,10:00,21:00,5,false
+573,Jaxspan,Chinese,West Village,expensive,10:00,21:00,3,false
+574,Rhynoodle,Chinese,West Village,medium,10:00,21:00,4,true
+575,Browsedrive,Japanese,UES,cheap,10:00,21:00,1,false
+576,Muxo,Italian,West Village,expensive,10:00,21:00,2,true
+577,Demizz,Italian,UES,cheap,10:00,21:00,5,false
+578,Quaxo,Latin,East Village,medium,10:00,21:00,5,true
+579,Aivee,Greek,Fidi,cheap,10:00,21:00,1,true
+580,Linklinks,American,LES,expensive,10:00,21:00,1,true
+581,Browseblab,Italian,Ktown,expensive,10:00,21:00,3,true
+582,Jayo,Mexican,Midtown,cheap,10:00,21:00,1,false
+583,Devpoint,Latin,UWS,medium,10:00,21:00,1,false
+584,Kwinu,Chinese,Fidi,cheap,10:00,21:00,4,false
+585,Skibox,French,UWS,expensive,10:00,21:00,1,false
+586,Zoombox,Japanese,UWS,expensive,10:00,21:00,4,false
+587,Blogspan,Mexican,Tribeca,cheap,10:00,21:00,1,false
+588,Flashset,French,West Village,cheap,10:00,21:00,3,false
+589,Youtags,Mexican,Grammercy,cheap,10:00,21:00,2,true
+590,Skipstorm,French,Tribeca,cheap,10:00,21:00,2,true
+591,Skiptube,Latin,Soho,medium,10:00,21:00,5,true
+592,Photofeed,Greek,Midtown,cheap,10:00,21:00,3,true
+593,Jabbersphere,Korean,Grammercy,expensive,10:00,21:00,5,true
+594,Wordware,Greek,UWS,cheap,10:00,21:00,5,true
+595,Yadel,Greek,LES,medium,10:00,21:00,3,true
+596,Kanoodle,Korean,Ktown,expensive,10:00,21:00,1,false
+597,Skinix,American,Soho,expensive,10:00,21:00,1,false
+598,Myworks,Greek,UWS,expensive,10:00,21:00,2,false
+599,Dynabox,Korean,Grammercy,medium,10:00,21:00,5,false
+600,Topicware,Japanese,Hell's Kitchen,medium,10:00,21:00,5,true
+601,Yambee,Thai,UES,medium,10:00,21:00,2,true
+602,Tekfly,Mexican,West Village,cheap,10:00,21:00,2,true
+603,Kare,Korean,West Village,medium,10:00,21:00,2,false
+604,Photojam,Japanese,Grammercy,cheap,10:00,21:00,1,true
+605,Trupe,French,Chinatown,medium,10:00,21:00,1,false
+606,Twitternation,American,Soho,expensive,10:00,21:00,2,true
+607,Oyondu,American,UWS,medium,10:00,21:00,3,true
+608,Tazz,Italian,Soho,expensive,10:00,21:00,5,false
+609,Camido,Chinese,Noho,expensive,10:00,21:00,3,false
+610,Skyvu,French,Noho,expensive,10:00,21:00,5,false
+611,Katz,French,Grammercy,expensive,10:00,21:00,4,true
+612,Kamba,Japanese,West Village,medium,10:00,21:00,5,false
+613,Mita,Italian,Hell's Kitchen,cheap,10:00,21:00,4,true
+614,Agivu,Korean,Grammercy,expensive,10:00,21:00,1,true
+615,Brainlounge,Thai,Grammercy,medium,10:00,21:00,2,false
+616,Skyvu,Indian,Chinatown,expensive,10:00,21:00,1,true
+617,Roodel,American,UWS,medium,10:00,21:00,5,true
+618,Geba,Italian,Noho,medium,10:00,21:00,5,false
+619,Gabvine,Mexican,Hell's Kitchen,expensive,10:00,21:00,3,true
+620,Youbridge,Korean,Midtown,cheap,10:00,21:00,3,true
+621,Vidoo,Latin,UWS,cheap,10:00,21:00,3,false
+622,Babbleopia,Indian,UES,medium,10:00,21:00,4,true
+623,Thoughtworks,Korean,Chinatown,expensive,10:00,21:00,1,false
+624,Fanoodle,Greek,Tribeca,expensive,10:00,21:00,5,false
+625,Rhyloo,French,Fidi,expensive,10:00,21:00,5,false
+626,Twitterbeat,Korean,Greenwich Village,medium,10:00,21:00,4,false
+627,Skibox,Latin,Soho,cheap,10:00,21:00,2,false
+628,Skippad,Greek,Fidi,medium,10:00,21:00,3,true
+629,Zoonder,Korean,Flatiron,expensive,10:00,21:00,4,true
+630,Dynabox,French,East Village,expensive,10:00,21:00,4,false
+631,Avamba,Greek,Midtown,cheap,10:00,21:00,5,true
+632,Bubblebox,French,Chelsea,cheap,10:00,21:00,4,true
+633,Feedfire,Thai,East Village,medium,10:00,21:00,2,true
+634,Tagtune,Chinese,Flatiron,cheap,10:00,21:00,5,false
+635,Eabox,Japanese,LES,cheap,10:00,21:00,1,true
+636,Vitz,Thai,Fidi,medium,10:00,21:00,3,true
+637,Oyope,Chinese,UWS,cheap,10:00,21:00,4,true
+638,Youspan,Latin,Grammercy,expensive,10:00,21:00,1,true
+639,Yodo,Greek,Greenwich Village,cheap,10:00,21:00,3,false
+640,Topiczoom,Greek,Grammercy,expensive,10:00,21:00,3,false
+641,Shuffledrive,Korean,Tribeca,medium,10:00,21:00,5,true
+642,Edgepulse,Mexican,East Village,cheap,10:00,21:00,4,false
+643,Jabbersphere,Korean,Flatiron,expensive,10:00,21:00,1,false
+644,Voomm,American,Ktown,medium,10:00,21:00,5,true
+645,Gigaclub,Chinese,UWS,medium,10:00,21:00,1,false
+646,Babbleopia,Greek,Ktown,medium,10:00,21:00,4,false
+647,Eidel,French,Midtown,medium,10:00,21:00,2,false
+648,Livepath,Indian,Chelsea,medium,10:00,21:00,5,true
+649,Cogilith,French,East Village,cheap,10:00,21:00,5,true
+650,Skajo,American,Fidi,cheap,10:00,21:00,3,true
+651,Jetpulse,Greek,Soho,medium,10:00,21:00,3,true
+652,Youopia,Korean,Chelsea,cheap,10:00,21:00,3,true
+653,Quinu,Chinese,Chinatown,medium,10:00,21:00,5,true
+654,Flashset,Greek,Chelsea,expensive,10:00,21:00,4,true
+655,Aibox,Korean,East Village,cheap,10:00,21:00,5,true
+656,Leenti,Greek,West Village,cheap,10:00,21:00,3,true
+657,Gigaclub,French,Soho,expensive,10:00,21:00,1,false
+658,Zazio,Thai,East Village,expensive,10:00,21:00,4,false
+659,Voonyx,Indian,Ktown,medium,10:00,21:00,4,false
+660,Flipbug,Indian,Ktown,medium,10:00,21:00,1,true
+661,Oodoo,Mexican,West Village,expensive,10:00,21:00,1,false
+662,Meembee,Greek,Hell's Kitchen,expensive,10:00,21:00,1,true
+663,Kwilith,Latin,West Village,medium,10:00,21:00,5,false
+664,Dynabox,Italian,Chinatown,cheap,10:00,21:00,4,false
+665,Voolith,French,Tribeca,medium,10:00,21:00,4,false
+666,Kazio,Mexican,West Village,medium,10:00,21:00,2,true
+667,Browsetype,Thai,Soho,expensive,10:00,21:00,2,true
+668,Tagopia,French,Tribeca,cheap,10:00,21:00,3,false
+669,Babbleblab,Indian,West Village,expensive,10:00,21:00,5,false
+670,Skinte,Indian,UES,expensive,10:00,21:00,3,true
+671,Dablist,Chinese,Fidi,cheap,10:00,21:00,2,true
+672,Devpoint,Chinese,Grammercy,cheap,10:00,21:00,4,true
+673,Skipstorm,Chinese,Noho,medium,10:00,21:00,5,false
+674,Tagchat,Chinese,West Village,cheap,10:00,21:00,1,false
+675,Browsebug,French,Ktown,medium,10:00,21:00,1,false
+676,Blognation,Korean,Fidi,medium,10:00,21:00,2,true
+677,Blogpad,French,West Village,medium,10:00,21:00,1,false
+678,Tazz,Latin,Greenwich Village,medium,10:00,21:00,2,true
+679,Chatterbridge,Korean,Fidi,expensive,10:00,21:00,4,true
+680,Bluezoom,French,West Village,expensive,10:00,21:00,5,true
+681,Dazzlesphere,Korean,Noho,medium,10:00,21:00,1,false
+682,Yoveo,American,West Village,medium,10:00,21:00,2,false
+683,Skipstorm,Japanese,Greenwich Village,medium,10:00,21:00,1,true
+684,Katz,Korean,West Village,cheap,10:00,21:00,3,false
+685,Skidoo,Thai,Chelsea,cheap,10:00,21:00,3,true
+686,Quinu,French,UWS,expensive,10:00,21:00,5,false
+687,Jaxnation,French,Greenwich Village,cheap,10:00,21:00,2,true
+688,Trupe,Mexican,UES,cheap,10:00,21:00,3,true
+689,Eabox,Latin,Noho,cheap,10:00,21:00,5,false
+690,Trilith,Chinese,UES,expensive,10:00,21:00,5,true
+691,Devshare,Korean,Noho,medium,10:00,21:00,2,true
+692,Jabberstorm,Mexican,Ktown,expensive,10:00,21:00,1,true
+693,Skyble,Latin,UES,expensive,10:00,21:00,2,false
+694,Dazzlesphere,Greek,Hell's Kitchen,expensive,10:00,21:00,3,true
+695,Npath,Italian,LES,medium,10:00,21:00,5,true
+696,Tagfeed,Indian,Ktown,medium,10:00,21:00,3,false
+697,Voonyx,Latin,Greenwich Village,medium,10:00,21:00,2,true
+698,Demivee,Greek,Tribeca,medium,10:00,21:00,5,false
+699,Tambee,Latin,Hell's Kitchen,medium,10:00,21:00,1,true
+700,Topdrive,Mexican,Chinatown,medium,10:00,21:00,1,false
+701,Janyx,Korean,Chelsea,medium,10:00,21:00,4,true
+702,Edgepulse,Latin,UES,cheap,10:00,21:00,2,true
+703,Tambee,Mexican,Fidi,expensive,10:00,21:00,2,false
+704,Omba,Thai,Fidi,medium,10:00,21:00,3,false
+705,Quinu,Thai,Tribeca,expensive,10:00,21:00,4,true
+706,Ntag,Japanese,Ktown,medium,10:00,21:00,2,false
+707,Oloo,Latin,Fidi,cheap,10:00,21:00,3,false
+708,Voonix,Chinese,West Village,cheap,10:00,21:00,4,true
+709,Meevee,Mexican,Fidi,expensive,10:00,21:00,1,true
+710,Thoughtbeat,Greek,Chinatown,medium,10:00,21:00,5,true
+711,Skimia,Thai,Chelsea,cheap,10:00,21:00,5,false
+712,Youopia,Latin,UWS,expensive,10:00,21:00,3,false
+713,Wordpedia,Greek,UES,cheap,10:00,21:00,4,false
+714,Devbug,Indian,Soho,cheap,10:00,21:00,4,false
+715,Fliptune,French,Ktown,expensive,10:00,21:00,4,true
+716,Quinu,Latin,Grammercy,medium,10:00,21:00,3,false
+717,Oyondu,Mexican,Soho,expensive,10:00,21:00,4,false
+718,Linklinks,American,Noho,cheap,10:00,21:00,2,true
+719,Wordify,Indian,Grammercy,cheap,10:00,21:00,2,true
+720,Skimia,Italian,Flatiron,cheap,10:00,21:00,3,false
+721,Livefish,Japanese,Chinatown,expensive,10:00,21:00,4,true
+722,DabZ,Chinese,Soho,medium,10:00,21:00,1,true
+723,Blogpad,Greek,UES,cheap,10:00,21:00,3,false
+724,Oyondu,Italian,Greenwich Village,medium,10:00,21:00,4,true
+725,Riffpedia,French,Chelsea,cheap,10:00,21:00,1,false
+726,Zoombox,Chinese,Midtown,medium,10:00,21:00,3,false
+727,Yotz,Indian,Flatiron,cheap,10:00,21:00,1,false
+728,Wordware,American,Midtown,cheap,10:00,21:00,2,false
+729,Eamia,Mexican,East Village,cheap,10:00,21:00,4,false
+730,Yakitri,Korean,UES,expensive,10:00,21:00,2,false
+731,Edgeclub,Thai,West Village,cheap,10:00,21:00,4,true
+732,Reallinks,Korean,UES,medium,10:00,21:00,3,true
+733,Youtags,Thai,West Village,medium,10:00,21:00,2,true
+734,Meedoo,Mexican,Fidi,medium,10:00,21:00,1,true
+735,Divape,Latin,Hell's Kitchen,expensive,10:00,21:00,3,false
+736,Babbleblab,Greek,UWS,cheap,10:00,21:00,4,false
+737,Aimbu,Mexican,UWS,cheap,10:00,21:00,4,false
+738,Dynabox,Greek,LES,cheap,10:00,21:00,5,false
+739,Oloo,Italian,Chelsea,cheap,10:00,21:00,4,false
+740,Skimia,French,Flatiron,expensive,10:00,21:00,1,false
+741,Quimm,Italian,Ktown,medium,10:00,21:00,4,false
+742,Plambee,Chinese,LES,expensive,10:00,21:00,1,false
+743,Skyvu,Japanese,UES,cheap,10:00,21:00,1,true
+744,Minyx,Thai,Grammercy,cheap,10:00,21:00,1,true
+745,Katz,Greek,Hell's Kitchen,medium,10:00,21:00,4,false
+746,Voonte,American,Fidi,expensive,10:00,21:00,2,false
+747,Quire,American,East Village,cheap,10:00,21:00,4,true
+748,Flashdog,Japanese,Fidi,medium,10:00,21:00,2,true
+749,Katz,Korean,Chinatown,medium,10:00,21:00,2,true
+750,Twitternation,Chinese,Flatiron,cheap,10:00,21:00,4,false
+751,Fadeo,American,East Village,medium,10:00,21:00,5,true
+752,Roomm,Italian,Noho,expensive,10:00,21:00,3,true
+753,Voomm,Thai,UWS,expensive,10:00,21:00,4,true
+754,Yakidoo,Thai,UWS,expensive,10:00,21:00,5,false
+755,Twimbo,Italian,Soho,expensive,10:00,21:00,2,false
+756,Brightbean,Greek,Greenwich Village,cheap,10:00,21:00,2,true
+757,Meetz,Japanese,Fidi,cheap,10:00,21:00,4,true
+758,Babbleset,Mexican,Noho,medium,10:00,21:00,1,true
+759,Tagtune,Latin,Hell's Kitchen,medium,10:00,21:00,3,true
+760,Mybuzz,American,Fidi,expensive,10:00,21:00,5,false
+761,Jaxspan,Latin,Greenwich Village,cheap,10:00,21:00,5,true
+762,Dazzlesphere,Japanese,Chinatown,cheap,10:00,21:00,3,true
+763,Yacero,Latin,LES,medium,10:00,21:00,3,true
+764,Roodel,French,Flatiron,cheap,10:00,21:00,4,false
+765,Lajo,Indian,UES,expensive,10:00,21:00,4,true
+766,Jayo,Latin,Flatiron,expensive,10:00,21:00,2,false
+767,Talane,Italian,East Village,expensive,10:00,21:00,1,false
+768,Layo,Korean,Tribeca,medium,10:00,21:00,1,false
+769,Tagpad,Greek,Chelsea,expensive,10:00,21:00,3,false
+770,Meetz,Greek,Ktown,cheap,10:00,21:00,2,true
+771,Kazu,American,Soho,expensive,10:00,21:00,1,false
+772,Skimia,Japanese,UES,expensive,10:00,21:00,2,true
+773,Buzzdog,Chinese,Noho,cheap,10:00,21:00,3,true
+774,Skynoodle,Korean,Ktown,cheap,10:00,21:00,4,false
+775,Babblestorm,Thai,Chelsea,expensive,10:00,21:00,5,false
+776,Skibox,Mexican,Tribeca,cheap,10:00,21:00,1,true
+777,Gabvine,Japanese,Ktown,cheap,10:00,21:00,5,false
+778,Ntags,American,Flatiron,cheap,10:00,21:00,5,true
+779,Livetube,Mexican,Grammercy,cheap,10:00,21:00,5,true
+780,Zooveo,Japanese,East Village,cheap,10:00,21:00,3,true
+781,Skalith,Mexican,Soho,medium,10:00,21:00,4,true
+782,Skyndu,Japanese,Chinatown,cheap,10:00,21:00,2,false
+783,Mydo,American,Flatiron,cheap,10:00,21:00,3,false
+784,Skalith,Chinese,West Village,expensive,10:00,21:00,5,true
+785,Aimbu,Greek,Fidi,expensive,10:00,21:00,4,false
+786,Mybuzz,Greek,Fidi,expensive,10:00,21:00,3,true
+787,Divavu,Italian,Chinatown,cheap,10:00,21:00,5,false
+788,Skivee,Greek,UES,expensive,10:00,21:00,4,false
+789,Myworks,Indian,Chelsea,cheap,10:00,21:00,4,false
+790,Skyndu,Chinese,Fidi,expensive,10:00,21:00,4,false
+791,Flipopia,Indian,Fidi,medium,10:00,21:00,5,false
+792,Mynte,American,Grammercy,medium,10:00,21:00,5,true
+793,Rhynoodle,Italian,LES,expensive,10:00,21:00,3,false
+794,Voonder,Greek,Flatiron,expensive,10:00,21:00,1,true
+795,Yakijo,Chinese,West Village,expensive,10:00,21:00,2,true
+796,Youtags,Greek,Tribeca,medium,10:00,21:00,3,true
+797,Cogibox,Latin,Fidi,cheap,10:00,21:00,2,false
+798,Mydo,French,East Village,cheap,10:00,21:00,5,true
+799,Cogilith,Thai,Fidi,cheap,10:00,21:00,4,false
+800,Layo,Chinese,Flatiron,medium,10:00,21:00,5,true
+801,Skidoo,Japanese,Noho,medium,10:00,21:00,2,false
+802,Tazzy,Italian,Fidi,medium,10:00,21:00,4,true
+803,Lajo,Greek,Flatiron,cheap,10:00,21:00,1,true
+804,Chatterbridge,Thai,West Village,cheap,10:00,21:00,1,true
+805,Ozu,Greek,Ktown,expensive,10:00,21:00,3,true
+806,Skinix,French,Noho,expensive,10:00,21:00,5,false
+807,Abata,American,Chinatown,expensive,10:00,21:00,2,true
+808,Blogtag,Italian,UWS,expensive,10:00,21:00,4,true
+809,BlogXS,Italian,Hell's Kitchen,cheap,10:00,21:00,5,false
+810,Voonder,Japanese,Flatiron,medium,10:00,21:00,3,true
+811,Realpoint,Thai,Greenwich Village,medium,10:00,21:00,5,false
+812,Wikizz,French,West Village,expensive,10:00,21:00,2,false
+813,Vidoo,American,Hell's Kitchen,expensive,10:00,21:00,3,false
+814,Dabjam,Italian,Soho,cheap,10:00,21:00,1,true
+815,Oyondu,Japanese,Tribeca,expensive,10:00,21:00,4,true
+816,Meevee,Italian,Grammercy,cheap,10:00,21:00,3,true
+817,Zooveo,Italian,Flatiron,medium,10:00,21:00,5,false
+818,Demizz,Korean,Midtown,cheap,10:00,21:00,1,true
+819,Gabtype,Japanese,Flatiron,expensive,10:00,21:00,5,true
+820,Yadel,Thai,Chelsea,cheap,10:00,21:00,1,true
+821,Snaptags,French,Chinatown,medium,10:00,21:00,4,false
+822,Voonix,Japanese,Flatiron,cheap,10:00,21:00,1,true
+823,Avavee,Korean,Fidi,medium,10:00,21:00,3,true
+824,Youtags,Italian,West Village,cheap,10:00,21:00,4,true
+825,Bubbletube,Italian,Chelsea,medium,10:00,21:00,3,true
+826,Fliptune,Latin,LES,medium,10:00,21:00,5,true
+827,Youtags,Thai,UWS,expensive,10:00,21:00,3,true
+828,Cogilith,Indian,East Village,cheap,10:00,21:00,1,true
+829,Podcat,Indian,Ktown,expensive,10:00,21:00,5,false
+830,Edgepulse,Japanese,East Village,cheap,10:00,21:00,3,false
+831,Thoughtstorm,Italian,Greenwich Village,cheap,10:00,21:00,4,false
+832,Ntags,Chinese,Fidi,expensive,10:00,21:00,4,true
+833,Devshare,American,Grammercy,cheap,10:00,21:00,1,false
+834,Voolith,Korean,East Village,medium,10:00,21:00,2,true
+835,Plambee,American,UWS,medium,10:00,21:00,4,true
+836,Jaxbean,French,Greenwich Village,medium,10:00,21:00,3,true
+837,Jabbercube,Indian,UES,medium,10:00,21:00,4,true
+838,Twinder,Chinese,Flatiron,medium,10:00,21:00,4,false
+839,Roomm,American,Grammercy,cheap,10:00,21:00,2,true
+840,Trudeo,Chinese,LES,expensive,10:00,21:00,2,false
+841,Omba,Japanese,Grammercy,expensive,10:00,21:00,2,false
+842,Quamba,Thai,UWS,medium,10:00,21:00,5,true
+843,Mymm,Indian,Ktown,cheap,10:00,21:00,2,false
+844,Dabjam,Indian,Ktown,expensive,10:00,21:00,4,true
+845,Riffpedia,Thai,Chelsea,expensive,10:00,21:00,1,false
+846,Jaxworks,Mexican,Grammercy,expensive,10:00,21:00,3,true
+847,Npath,Indian,UWS,cheap,10:00,21:00,3,false
+848,Topicware,Mexican,Hell's Kitchen,medium,10:00,21:00,2,true
+849,Twinte,Chinese,UES,cheap,10:00,21:00,4,false
+850,Twinder,Latin,Noho,cheap,10:00,21:00,4,true
+851,Mynte,French,Noho,cheap,10:00,21:00,2,true
+852,Youopia,American,UES,medium,10:00,21:00,3,false
+853,Yodo,French,UWS,cheap,10:00,21:00,4,true
+854,Flipopia,Thai,Hell's Kitchen,cheap,10:00,21:00,5,true
+855,Leexo,Korean,UWS,expensive,10:00,21:00,2,false
+856,Tavu,Thai,Grammercy,expensive,10:00,21:00,1,true
+857,Tazz,Mexican,Hell's Kitchen,medium,10:00,21:00,1,false
+858,Yacero,Korean,LES,cheap,10:00,21:00,4,true
+859,Flipstorm,American,Greenwich Village,medium,10:00,21:00,1,true
+860,Plambee,Chinese,Chinatown,cheap,10:00,21:00,4,true
+861,Flipstorm,Chinese,UES,medium,10:00,21:00,2,false
+862,Dynazzy,Korean,Greenwich Village,cheap,10:00,21:00,3,false
+863,Photobug,French,West Village,expensive,10:00,21:00,1,true
+864,Twitternation,American,Chelsea,cheap,10:00,21:00,1,true
+865,Buzzster,Chinese,Grammercy,cheap,10:00,21:00,3,false
+866,Twimm,Korean,East Village,cheap,10:00,21:00,5,true
+867,Linklinks,Japanese,Chinatown,expensive,10:00,21:00,2,false
+868,Fivespan,Latin,West Village,expensive,10:00,21:00,2,false
+869,Einti,Indian,UES,expensive,10:00,21:00,3,true
+870,Kare,French,Tribeca,cheap,10:00,21:00,2,false
+871,Digitube,Chinese,Tribeca,expensive,10:00,21:00,1,false
+872,Flashspan,Korean,Flatiron,medium,10:00,21:00,3,false
+873,Brightdog,Latin,Hell's Kitchen,expensive,10:00,21:00,3,false
+874,Oyondu,Thai,Fidi,medium,10:00,21:00,4,false
+875,Brightbean,Japanese,Grammercy,expensive,10:00,21:00,5,false
+876,Flashspan,Latin,East Village,medium,10:00,21:00,3,false
+877,Meejo,Greek,Hell's Kitchen,cheap,10:00,21:00,2,false
+878,Dynazzy,Indian,UWS,cheap,10:00,21:00,4,false
+879,Meetz,Indian,Midtown,expensive,10:00,21:00,2,true
+880,Photospace,Chinese,Hell's Kitchen,cheap,10:00,21:00,5,false
+881,Meevee,Thai,Greenwich Village,cheap,10:00,21:00,1,true
+882,Oyope,French,Hell's Kitchen,expensive,10:00,21:00,1,true
+883,Shufflester,Japanese,Soho,medium,10:00,21:00,5,true
+884,Twiyo,Italian,Greenwich Village,expensive,10:00,21:00,3,false
+885,Wikibox,French,LES,medium,10:00,21:00,2,false
+886,Aimbu,Japanese,Flatiron,cheap,10:00,21:00,1,true
+887,Eire,French,Grammercy,medium,10:00,21:00,3,true
+888,Meevee,Indian,Hell's Kitchen,medium,10:00,21:00,1,false
+889,Quatz,Japanese,LES,cheap,10:00,21:00,4,false
+890,Meeveo,Greek,Hell's Kitchen,cheap,10:00,21:00,2,false
+891,Topicstorm,Indian,Grammercy,expensive,10:00,21:00,1,true
+892,Jetwire,Italian,Chelsea,medium,10:00,21:00,3,true
+893,Rhyloo,Italian,Ktown,cheap,10:00,21:00,2,true
+894,Midel,French,Fidi,medium,10:00,21:00,4,false
+895,Devbug,French,Soho,expensive,10:00,21:00,5,true
+896,Buzzdog,Chinese,Hell's Kitchen,expensive,10:00,21:00,2,false
+897,Oyoloo,Japanese,UWS,cheap,10:00,21:00,3,true
+898,Dablist,French,Hell's Kitchen,expensive,10:00,21:00,1,true
+899,Wordify,Greek,Noho,medium,10:00,21:00,3,true
+900,Skinder,Latin,Chelsea,cheap,10:00,21:00,1,false
+901,Skippad,Mexican,West Village,expensive,10:00,21:00,3,true
+902,Shufflebeat,Mexican,Noho,cheap,10:00,21:00,3,true
+903,Oyoyo,Indian,Midtown,cheap,10:00,21:00,4,true
+904,Fatz,Italian,Chinatown,expensive,10:00,21:00,4,false
+905,Yamia,Thai,UWS,expensive,10:00,21:00,3,true
+906,Dazzlesphere,Japanese,Greenwich Village,expensive,10:00,21:00,5,true
+907,Skyvu,Italian,UES,medium,10:00,21:00,1,false
+908,Twitterbeat,Greek,Tribeca,cheap,10:00,21:00,3,false
+909,Feednation,French,Tribeca,expensive,10:00,21:00,3,true
+910,Divanoodle,Thai,Soho,cheap,10:00,21:00,4,false
+911,Linktype,French,Greenwich Village,cheap,10:00,21:00,4,false
+912,Midel,Mexican,Chinatown,expensive,10:00,21:00,1,true
+913,Demimbu,Italian,Fidi,expensive,10:00,21:00,5,true
+914,Vinder,Indian,Hell's Kitchen,cheap,10:00,21:00,3,true
+915,Jabbersphere,Italian,Flatiron,cheap,10:00,21:00,2,false
+916,Janyx,Chinese,Ktown,cheap,10:00,21:00,2,true
+917,Jabbersphere,American,Midtown,expensive,10:00,21:00,3,false
+918,Dazzlesphere,Italian,Fidi,cheap,10:00,21:00,1,true
+919,Kazio,Greek,Chelsea,cheap,10:00,21:00,4,false
+920,Photobean,Italian,West Village,medium,10:00,21:00,1,true
+921,Plambee,Chinese,Tribeca,cheap,10:00,21:00,4,true
+922,Pixope,Latin,Greenwich Village,expensive,10:00,21:00,1,false
+923,Ntags,Greek,Hell's Kitchen,cheap,10:00,21:00,3,false
+924,Thoughtsphere,Greek,UWS,expensive,10:00,21:00,5,false
+925,Wordware,Thai,Noho,cheap,10:00,21:00,5,false
+926,Leexo,Latin,Tribeca,expensive,10:00,21:00,4,false
+927,Rhyzio,Thai,Greenwich Village,cheap,10:00,21:00,1,false
+928,Ainyx,Mexican,East Village,medium,10:00,21:00,5,false
+929,Plajo,Italian,Noho,cheap,10:00,21:00,2,true
+930,Edgewire,Italian,Greenwich Village,expensive,10:00,21:00,1,false
+931,Centidel,Korean,Soho,expensive,10:00,21:00,5,true
+932,Twitterlist,Latin,Chelsea,cheap,10:00,21:00,4,true
+933,Mydo,Mexican,UES,medium,10:00,21:00,3,false
+934,Linkbridge,Thai,UES,cheap,10:00,21:00,1,true
+935,Jaxbean,French,Grammercy,expensive,10:00,21:00,2,true
+936,JumpXS,Mexican,UWS,cheap,10:00,21:00,4,true
+937,Kwinu,Latin,Tribeca,cheap,10:00,21:00,2,false
+938,Yakitri,Italian,Noho,medium,10:00,21:00,5,false
+939,Topicblab,Chinese,Flatiron,cheap,10:00,21:00,5,false
+940,Chatterbridge,Latin,UWS,expensive,10:00,21:00,5,true
+941,Linkbuzz,Thai,Noho,medium,10:00,21:00,3,true
+942,Lazz,Chinese,Flatiron,cheap,10:00,21:00,1,false
+943,Twinte,Greek,UWS,expensive,10:00,21:00,4,false
+944,Kwilith,French,Soho,cheap,10:00,21:00,2,false
+945,Jayo,American,Chelsea,expensive,10:00,21:00,5,true
+946,Browseblab,Mexican,Greenwich Village,cheap,10:00,21:00,1,true
+947,Thoughtstorm,Latin,Grammercy,cheap,10:00,21:00,3,true
+948,Dazzlesphere,Chinese,Fidi,cheap,10:00,21:00,5,true
+949,Twinte,Indian,West Village,cheap,10:00,21:00,5,true
+950,Brainverse,Japanese,UES,expensive,10:00,21:00,1,false
+951,Pixoboo,Latin,UES,expensive,10:00,21:00,1,false
+952,Trudeo,Greek,Greenwich Village,expensive,10:00,21:00,2,true
+953,Riffwire,Latin,Chelsea,expensive,10:00,21:00,2,true
+954,Twitterbeat,Greek,Fidi,expensive,10:00,21:00,3,false
+955,Yozio,Greek,West Village,medium,10:00,21:00,5,true
+956,Yata,Korean,UES,expensive,10:00,21:00,3,false
+957,Skynoodle,Italian,Chelsea,cheap,10:00,21:00,3,true
+958,Photofeed,Indian,Chinatown,expensive,10:00,21:00,4,true
+959,Demivee,Thai,Greenwich Village,expensive,10:00,21:00,3,true
+960,Bubblebox,Japanese,Fidi,medium,10:00,21:00,4,false
+961,Quatz,Thai,Greenwich Village,cheap,10:00,21:00,2,true
+962,Aibox,Indian,LES,expensive,10:00,21:00,3,false
+963,Yozio,Indian,Grammercy,cheap,10:00,21:00,5,false
+964,Pixonyx,Indian,Flatiron,expensive,10:00,21:00,5,true
+965,Blogpad,Japanese,Greenwich Village,medium,10:00,21:00,5,true
+966,Skinte,Chinese,LES,medium,10:00,21:00,2,false
+967,Jabberstorm,Chinese,Midtown,expensive,10:00,21:00,2,true
+968,Divanoodle,Indian,West Village,cheap,10:00,21:00,1,true
+969,Meeveo,Italian,Fidi,expensive,10:00,21:00,1,true
+970,Thoughtstorm,Mexican,Soho,expensive,10:00,21:00,2,false
+971,Meembee,Mexican,Grammercy,cheap,10:00,21:00,4,true
+972,Nlounge,Thai,Ktown,cheap,10:00,21:00,2,true
+973,Blognation,Thai,Greenwich Village,expensive,10:00,21:00,2,false
+974,Eazzy,Mexican,East Village,cheap,10:00,21:00,1,false
+975,Aimbo,Korean,Chinatown,cheap,10:00,21:00,4,false
+976,Mydo,Thai,Grammercy,expensive,10:00,21:00,2,false
+977,Livetube,Chinese,Soho,medium,10:00,21:00,5,false
+978,Pixope,Mexican,Soho,medium,10:00,21:00,2,false
+979,Jetwire,Japanese,UWS,expensive,10:00,21:00,4,false
+980,Skajo,Italian,Greenwich Village,medium,10:00,21:00,3,true
+981,Skyndu,Chinese,East Village,expensive,10:00,21:00,3,true
+982,Jaxworks,Japanese,Tribeca,medium,10:00,21:00,5,true
+983,Skibox,American,Tribeca,expensive,10:00,21:00,3,true
+984,Kanoodle,Japanese,Fidi,expensive,10:00,21:00,3,false
+985,Oba,American,Fidi,cheap,10:00,21:00,4,true
+986,Linklinks,Indian,Noho,expensive,10:00,21:00,3,false
+987,Livetube,American,Noho,medium,10:00,21:00,3,true
+988,Twimm,American,Chinatown,cheap,10:00,21:00,2,false
+989,Devpoint,Mexican,UWS,cheap,10:00,21:00,2,false
+990,Skidoo,French,UWS,cheap,10:00,21:00,2,true
+991,Jaxbean,Japanese,LES,medium,10:00,21:00,4,true
+992,Brainbox,Greek,Tribeca,expensive,10:00,21:00,3,false
+993,Browsecat,Italian,Ktown,cheap,10:00,21:00,2,false
+994,Centidel,Thai,Flatiron,cheap,10:00,21:00,1,true
+995,Topiclounge,Thai,Flatiron,medium,10:00,21:00,5,true
+996,Rhycero,Chinese,Grammercy,medium,10:00,21:00,5,false
+997,Yakijo,Mexican,Flatiron,expensive,10:00,21:00,3,true
+998,Twimbo,Greek,Soho,cheap,10:00,21:00,2,true
+999,Browseblab,Thai,Hell's Kitchen,medium,10:00,21:00,1,true
+1000,Edgewire,Thai,West Village,expensive,10:00,21:00,1,false
